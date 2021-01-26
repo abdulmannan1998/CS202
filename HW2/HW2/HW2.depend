@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1595523777 source:c:\users\abdul mannan\desktop\cs 202\hw2\hw2\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	"NgramTree.h"
+	<iostream>
+
+1595524519 c:\users\abdul mannan\desktop\cs 202\hw2\hw2\include\ngramtree.h
+	<string>
+
+1595839446 source:c:\users\abdul mannan\desktop\cs 202\hw2\hw2\src\ngramtree.cpp
+	<cstddef>
+	"../include/NgramTree.h"
+	<iostream>
+	<cmath>
+	<fstream>
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1594949513 source:c:\users\abdul mannan\desktop\cs 202\hw1\main.cpp
+	"time.h"
+	<iostream>
+	"sorting.h"
+	<cstdlib>
+	<math.h>
+
+1594949443 source:c:\users\abdul mannan\desktop\cs 202\hw1\sorting.cpp
+	"sorting.h"
+
+1594949552 c:\users\abdul mannan\desktop\cs 202\hw1\sorting.h
+

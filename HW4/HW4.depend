@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1597606794 source:c:\users\abdul mannan\desktop\cs 202\hw4\src\avltree.cpp
+	"../include/AVLTree.h"
+	<math.h>
+	<fstream>
+	<bits/stdc++.h>
+	<cstddef>
+	<cctype>
+
+1597605841 c:\users\abdul mannan\desktop\cs 202\hw4\include\avltree.h
+	<iostream>
+	"string"
+

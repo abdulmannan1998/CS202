@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1596980356 source:c:\users\abdul mannan\desktop\cs 202\hw 3\heapsort.cpp
+	"heap.h"
+	"string"
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+
+1596980305 c:\users\abdul mannan\desktop\cs 202\hw 3\include\heap.h
+
+1596980518 source:c:\users\abdul mannan\desktop\cs 202\hw 3\src\heap.cpp
+	"heap.h"
+	<iostream>
+
+1596980518 source:c:\users\abdul mannan\desktop\cs 202\hw3\src\heap.cpp
+	"heap.h"
+	<iostream>
+
+1596985752 c:\users\abdul mannan\desktop\cs 202\hw3\include\heap.h
+
+1596985808 source:c:\users\abdul mannan\desktop\cs 202\hw3\heapsort.cpp
+	"heap.h"
+	"string"
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+Total Word Count: 7579
+Tree Height: 15
+Most Frequent: the 4105
+Least Frequent: a) 1
+Standard Deviation: 76.9979
